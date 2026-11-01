@@ -8,7 +8,7 @@ This repository contains the Arabic and English versions of an article examining
 
 | Language | Article |
 |---|---|
-| 🇪🇬 Arabic | [Read the Arabic article](./AdFection_Article_Arabic.md) |
+| 🇪🇬 Arabic | [Read the Arabic article](./AdFection_GitHub_Article_Arabic.md) |
 | 🇬🇧 English | [Read the English article](./AdFection_Article_English.md) |
 
 ## About the Article
